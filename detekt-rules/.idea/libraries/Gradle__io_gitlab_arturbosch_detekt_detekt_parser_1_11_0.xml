@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gitlab.arturbosch.detekt:detekt-parser:1.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-parser/1.11.0/89cb352a83c42b534015bcd5715c7cd25dd4667e/detekt-parser-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-parser/1.11.0/d44ced50cb7253952eb0fcca96323ab3d6453e30/detekt-parser-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

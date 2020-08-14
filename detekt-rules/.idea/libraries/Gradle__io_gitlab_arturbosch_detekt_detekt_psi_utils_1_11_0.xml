@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gitlab.arturbosch.detekt:detekt-psi-utils:1.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-psi-utils/1.11.0/8c0b6779a21fe480fb0a18750e396e62fce89e32/detekt-psi-utils-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-psi-utils/1.11.0/818138671df4db69e5e39c044af8e1c2ffd872fc/detekt-psi-utils-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

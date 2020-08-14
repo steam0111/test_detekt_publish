@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gitlab.arturbosch.detekt:detekt-test-utils:1.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-test-utils/1.11.0/67005ce0ffafd480c2f952e723b243786c3de964/detekt-test-utils-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gitlab.arturbosch.detekt/detekt-test-utils/1.11.0/20ff62a2f826ba07bb79a577667c0667bf20d351/detekt-test-utils-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
